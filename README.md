@@ -1,2 +1,2 @@
-# the-complete-web-developer-in-2018
-UDc-the-complete-web-developer-in-2018
+# the-complete-web-developer
+UDc-the-complete-web-developer
